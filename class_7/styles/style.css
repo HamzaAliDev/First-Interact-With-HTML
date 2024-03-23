@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+    color: rgb(118, 179, 7);
+    }
+h1{
+    color: rgb(142, 173, 5)
+}
+h3{
+    color: rgb(225, 232, 235);
+    text-align: center;
+}
+body{
+    background-color: rgb(238, 238, 46);
+    /* background-color: aqua; */
+    /* background-color: blueviolet; */
+}
+#hero{
+    height: 600px;
+    background-image: url("../assets/image/jpg.avif");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+#border{
+    border-style: solid;
+    
+}
